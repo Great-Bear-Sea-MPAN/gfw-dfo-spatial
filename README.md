@@ -16,6 +16,7 @@ This repository contains scripts for analyzing Global Fishing Watch (GFW) and DF
 ## Notes
 
 Some processed spatial files exceed GitHub’s 100 MB file size limit and are not included in version control. These are created locally by running the relevant scripts in `scripts/`.
+The resulting file is also currently saved on [Google Drive](https://drive.google.com/file/d/12zH806_dnYu_WvobgfZ7dmTS6_66HlF4/view?usp=drive_link).
 
 ## Current work
 
