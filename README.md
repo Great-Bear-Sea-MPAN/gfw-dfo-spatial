@@ -1,6 +1,6 @@
 # GFW–DFO Spatial Analysis
 
-This repository contains scripts for analyzing Global Fishing Watch (GFW) and DFO gridded commercial fishing data. The project is ongoing and will be expanded as new analyses and datasets are added.
+This repository contains scripts for analyzing Global Fishing Watch (GFW) and DFO gridded commercial fishing data. The project is ongoing this repo may be expanded as new analyses and datasets are added.
 
 ## Project structure
 
@@ -21,4 +21,3 @@ The resulting file is also currently saved on [Google Drive](https://drive.googl
 ## Current work
 
 - Generating a continuous 1 km spatial grid from DFO gridded fishing data
-- Preparing datasets for spatial analysis and mapping
